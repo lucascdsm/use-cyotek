@@ -1,0 +1,164 @@
+Uri: https://app.pinpointhq.com/login
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\login.html
+Content Type: text/html
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Sectra-Fine-Medium.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Sectra-Fine-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Sectra-Fine-Medium.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Sectra-Fine-Medium.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Sectra-Medium.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Sectra-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Sectra-Medium.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Sectra-Medium.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Walsheim-Pro-Bold.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Walsheim-Pro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Walsheim-Pro-Bold.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Walsheim-Pro-Bold.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Walsheim-Pro-Medium.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Walsheim-Pro-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Walsheim-Pro-Medium.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Walsheim-Pro-Medium.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Walsheim-Pro-Regular.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Walsheim-Pro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/fonts/GT-Walsheim-Pro-Regular.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\fonts\GT-Walsheim-Pro-Regular.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/css/application-5e6ee9ba.css
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\css\application-5e6ee9ba.css
+Content Type: text/css
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/css/cookieconsent-4c4dfb09.css
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\css\cookieconsent-4c4dfb09.css
+Content Type: text/css
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/4934-7ef1df48c38cb8a32707.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\4934-7ef1df48c38cb8a32707.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/7758-500534d14de13d6d913d.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\7758-500534d14de13d6d913d.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/8860-54ebbc9015ed0678f9b4.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\8860-54ebbc9015ed0678f9b4.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/application-ffac7d645ae3d9ecf256.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\application-ffac7d645ae3d9ecf256.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/cdp-84feff2ddc8a9978561d.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\cdp-84feff2ddc8a9978561d.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/cloudinary-4e5eb5d8dc0e193d4cef.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\cloudinary-4e5eb5d8dc0e193d4cef.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/cookieconsent-76ba7ccf84597c35e667.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\cookieconsent-76ba7ccf84597c35e667.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/gtm-data-layer-9c7afd0f3a5aa7c9719c.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\gtm-data-layer-9c7afd0f3a5aa7c9719c.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/js/runtime-c2a38d88ac86ed233dba.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\js\runtime-c2a38d88ac86ed233dba.js
+Content Type: application/javascript
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/gt_sectra_display/GT-Sectra-Display-Medium-a23b876762ff54cbaf62.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\gt_sectra_display\GT-Sectra-Display-Medium-a23b876762ff54cbaf62.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/gt_sectra_display/GT-Sectra-Display-Medium-ce3cca0b13e469aa5914.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\gt_sectra_display\GT-Sectra-Display-Medium-ce3cca0b13e469aa5914.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/gt_sectra_display/GT-Sectra-Display-Regular-0017ee1542c1a02f4a9e.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\gt_sectra_display\GT-Sectra-Display-Regular-0017ee1542c1a02f4a9e.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/gt_sectra_display/GT-Sectra-Display-Regular-0d2c3fb0b64ed8cb1a41.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\gt_sectra_display\GT-Sectra-Display-Regular-0d2c3fb0b64ed8cb1a41.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/gt_sectra_fine/GT-Sectra-Fine-Medium-4e581335f0accfa492a5.woff2
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\gt_sectra_fine\GT-Sectra-Fine-Medium-4e581335f0accfa492a5.woff2
+Content Type: binary/octet-stream
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/gt_sectra_fine/GT-Sectra-Fine-Medium-7561c0ed3bca81d60138.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\gt_sectra_fine\GT-Sectra-Fine-Medium-7561c0ed3bca81d60138.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/icons/two_arrows_sea_green-0e961b25bbbcd1c3848b.svg
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\icons\two_arrows_sea_green-0e961b25bbbcd1c3848b.svg
+Content Type: image/svg+xml
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/logos/favicon-47ae2f1caf986330457b.png
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\logos\favicon-47ae2f1caf986330457b.png
+Content Type: image/png
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/logos/logomark-8a7d036aca9b58c08528.svg
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\logos\logomark-8a7d036aca9b58c08528.svg
+Content Type: image/svg+xml
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/react-intl-tel-input/dist/flags-3c3e9e32f289ee9c7f21.png
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\react-intl-tel-input\dist\flags-3c3e9e32f289ee9c7f21.png
+Content Type: image/png
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/react-intl-tel-input/dist/flags@2x-212e70b212ef2360ad85.png
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\react-intl-tel-input\dist\flags@2x-212e70b212ef2360ad85.png
+Content Type: image/png
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/slick-carousel/slick/ajax-loader-fb6f3c230cb846e25247.gif
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\slick-carousel\slick\ajax-loader-fb6f3c230cb846e25247.gif
+Content Type: image/gif
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/slick-carousel/slick/fonts/slick-2630a3e3eab21c607e21.svg
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\slick-carousel\slick\fonts\slick-2630a3e3eab21c607e21.svg
+Content Type: image/svg+xml
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/slick-carousel/slick/fonts/slick-295183786cd8a1389865.woff
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\slick-carousel\slick\fonts\slick-295183786cd8a1389865.woff
+Content Type: application/font-woff
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/slick-carousel/slick/fonts/slick-a4e97f5a2a64f0ab1323.eot
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\slick-carousel\slick\fonts\slick-a4e97f5a2a64f0ab1323.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/slick-carousel/slick/fonts/slick-a4e97f5a2a64f0ab1323.eot?
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\slick-carousel\slick\fonts\slick-a4e97f5a2a64f0ab1323-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d2n5ied94mazop.cloudfront.net/packs/static/slick-carousel/slick/fonts/slick-c94f7671dcc99dce43e2.ttf
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\packs\static\slick-carousel\slick\fonts\slick-c94f7671dcc99dce43e2.ttf
+Content Type: application/font-sfnt
+
+Uri: https://kit.fontawesome.com/832bb86d52.js
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\832bb86d52.js
+Content Type: text/javascript
+
+Uri: https://res.cloudinary.com/infuse-group/image/upload/e_improve,w_800,h_1200,c_thumb,f_auto,q_auto,g_auto:none/v1576578265/Pinpoint/Devise/06.04_-_PinPoint___Oliver_0166_8084.jpg
+File Name: C:\Users\lucas.miranda\Downloads\Cyotek Download HTML\app.pinpointhq.com\infuse-group\image\upload\e_improve,w_800,h_1200,c_thumb,f_auto,q_auto,g_autonone\v1576578265\Pinpoint\Devise\06.04_-_PinPoint___Oliver_0166_8084.jpg
+Content Type: image/jpeg
+
